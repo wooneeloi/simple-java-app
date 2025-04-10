@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("Jenkins is soooo boring!");
+        System.out.println("Jenkins is soooo boring! another test");
     }
 
     public String getMessage() {
